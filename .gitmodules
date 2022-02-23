@@ -1,0 +1,24 @@
+[submodule "src/pynat"]
+	path = src/pynat
+	url = https://github.com/cscarpitta/pynat.git
+[submodule "src/srv6-sdn-control-plane"]
+	path = src/srv6-sdn-control-plane
+	url = https://github.com/everywan-io/srv6-sdn-control-plane.git
+[submodule "src/srv6-sdn-proto"]
+	path = src/srv6-sdn-proto
+	url = https://github.com/everywan-io/srv6-sdn-proto.git
+[submodule "src/srv6-sdn-openssl"]
+	path = src/srv6-sdn-openssl
+	url = https://github.com/everywan-io/srv6-sdn-openssl.git
+[submodule "src/srv6-sdn-controller-state"]
+	path = src/srv6-sdn-controller-state
+	url = https://github.com/everywan-io/srv6-sdn-controller-state.git
+[submodule "src/srv6-sdn-authentication"]
+	path = src/srv6-sdn-authentication
+	url = https://github.com/everywan-io/srv6-sdn-authentication.git
+[submodule "src/srv6pm-delay-measurement"]
+	path = src/srv6pm-delay-measurement
+	url = https://github.com/everywan-io/srv6pm-delay-measurement.git
+[submodule "src/srv6-properties-generators"]
+	path = src/srv6-properties-generators
+	url = https://github.com/cscarpitta/srv6-properties-generators.git
